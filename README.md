@@ -1,2 +1,1 @@
-# GameSync_Classifier
-LRCN 
+# GameSync-Classifier-HACKTHEBOX-
